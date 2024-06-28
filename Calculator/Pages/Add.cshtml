@@ -1,0 +1,14 @@
+﻿@page
+@model AspNetCoreExample.Pages.AddModel
+@{
+}
+@Model.Title
+<h1> Calculator </h1>
+<form method="post">
+    Number 1 <input type="number" class="form-control" asp-for="@Model.number1" />
+    Number 2 <input type="number" class="form-control" asp-for="@Model.number2" />
+    <input type="submit" value="Add" class="btn btn-primary" asp-page-handler="Add" />
+    <input type="submit" value="Subtract" class="btn btn-danger" asp-page-handler="Subtract" />
+</form>
+<a href="">Clear</a>
+

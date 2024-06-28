@@ -1,0 +1,51 @@
+﻿@page
+@model AspCoreStates.Pages.State.RegisterModel
+@{
+}
+
+<p>
+	- Username and password is required </p>
+<p>	- Username length should be between 3 and 10 </p>
+<p>	- Password : 1st letter capital and last letter $
+</p>
+Username <input type="text" id="user"/>
+Password <input type = "password" id="pass"/>
+<input type = "button" value = "Login" onclick = "Validate()"/>
+<script>
+	function Validate() {
+		var user = $("#user").val();
+		if (user == "") {
+			alert("Username is required.");
+			return;
+		}
+
+		var pass = $("#pass").val();
+		if (pass == "") {
+			alert("Password is required.");
+			return;
+		}
+
+		if (user.length < 3 || user.length > 10) {
+			alert("Username length should be between 3 and 10");
+			return;
+		}
+
+
+		var first = pass.charAt(0);
+		if ( first != first.toUpperCase() )
+		{
+			alert("Password first letter must be capital");
+			return;
+
+		}
+		
+		
+		if (pass.charAt(pass.length - 1) != "$") {
+			alert("last letter should be $");
+			return;
+
+		}
+	
+	
+	}
+</script>
