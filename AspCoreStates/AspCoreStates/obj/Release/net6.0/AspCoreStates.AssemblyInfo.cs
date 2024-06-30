@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspCoreStates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc73f3d028a7a00bed0ee4171b0f1f0efbaf163")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspCoreStates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspCoreStates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

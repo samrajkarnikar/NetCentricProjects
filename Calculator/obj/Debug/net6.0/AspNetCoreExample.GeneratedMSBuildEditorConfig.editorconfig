@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetCoreExample
 build_property.RootNamespace = AspNetCoreExample
-build_property.ProjectDir = D:\Downloads\AspNetCoreExample\
+build_property.ProjectDir = C:\Users\a22\Downloads\NetCentricProjects\Calculator\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Downloads\AspNetCoreExample
+build_property.MSBuildProjectDirectory = C:\Users\a22\Downloads\NetCentricProjects\Calculator
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Add.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Display.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Error.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Index.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Privacy.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/_ViewImports.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/_ViewStart.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Downloads/AspNetCoreExample/Pages/Shared/_Layout.cshtml]
+[C:/Users/a22/Downloads/NetCentricProjects/Calculator/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8pf4qatpuo
