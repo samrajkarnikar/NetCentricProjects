@@ -1,18 +1,17 @@
 ﻿# NetCentricProjects
 
-Output of AspNetRoles
+*AspNetRoles*
 
-*Roles Using Cookies* 
+
 ![image](https://github.com/samrajkarnikar/NetCentricProjects/assets/172218219/2a4faded-724a-4add-96bb-eb8ee6c59d0f)
 
 
-  *Validation using JQuery* 
+ *Validation using JQuery* 
 
 ![image](https://github.com/samrajkarnikar/NetCentricProjects/assets/172218219/0ae0cd1f-f14c-4668-875c-2de97737e9e7)
 ![image](https://github.com/samrajkarnikar/NetCentricProjects/assets/172218219/32c07963-44b9-4ac7-8612-f19c64b2c937)
 
-
-Output of Student Dashboard
+*Student Dashboard*
 
 ![image](https://github.com/samrajkarnikar/NetCentricProjects/assets/172218219/a5924f32-ae39-4e31-a715-d42771b8ed5f)
 
